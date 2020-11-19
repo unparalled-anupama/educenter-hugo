@@ -66,9 +66,9 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "About Discover Public Health"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
+  content : "Discover Public Health is  sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
 
 
   cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
@@ -80,7 +80,7 @@ about:
 
 ############################# Course ################################
 course:
-  enable : true
+  enable : false
   title : "Our Course"
   # course item comes from "content/**/course" folder.
 
@@ -111,7 +111,7 @@ success_story:
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Upcoming Events"
   # event item comes from "content/**/event" folder.
 
@@ -143,5 +143,5 @@ funfacts:
 ############################# blog ################################
 blog:
   enable : true
-  title : "Latest News"
+  title : "Stories"
   # blog item comes from "content/**/blog" folder.

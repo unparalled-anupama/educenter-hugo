@@ -10,7 +10,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "educenter" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["fr"] # desable language from here
 
 
 ############################# Plugins ##############################
@@ -49,9 +49,9 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Kathmandu, Bagmati,Nepal"
+mobile = "+977-9806999827"
+email = "info@discoverpublichealth.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
