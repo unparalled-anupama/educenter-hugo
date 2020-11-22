@@ -17,13 +17,16 @@
 </section>
 <!-- /about -->
 
-<!-- funfacts -->
+
+<!-- This section is used to show the values or facts . Later may be used but 
+  currently we have no use for it 
+**** funfacts ***
 {{ if $data.homepage.funfacts.enable }}
 {{ with $data.homepage.funfacts }}
 <section class="section-sm bg-primary">
   <div class="container">
     <div class="row">
-      <!-- funfacts item -->
+      *** funfacts item ***
       {{ range .funfact_item }}
       <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
         <div class="text-center">
@@ -37,7 +40,8 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /funfacts -->
+*** /funfacts ***
+-->
 
 <!-- success story -->
 {{ partial "success-story.html" . }}
