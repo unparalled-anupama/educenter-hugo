@@ -131,20 +131,12 @@ name = "About"
 url = "about"
 weight = 1
 
-[[Languages.en.menu.main]]
-name = "course"
-url = "course"
-weight = 2
 
 [[Languages.en.menu.main]]
 weight = 3
 name = "Pages"
 hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
@@ -156,10 +148,6 @@ hasChildren = true
   name = "event"
   url = "event"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
@@ -178,11 +166,6 @@ weight = 5
 
 
 # footer menu
-
-[[Languages.en.menu.footer]]
-name = "teacher"
-url = "teacher"
-
 [[Languages.en.menu.footer]]
 name = "notice"
 url = "notice"
@@ -191,9 +174,6 @@ url = "notice"
 name = "event"
 url = "event"
 
-[[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship"
 
 [[Languages.en.menu.footer]]
 name = "research"
