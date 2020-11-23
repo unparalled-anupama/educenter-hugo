@@ -17,13 +17,13 @@
   border-top: .5px solid lightgray;
 
   @include desktop {
-    background: $secondary-color;
+    background: $navbar-color;
   }
 }
 
 .navbar-collapse{
   @include desktop {
-    background: $secondary-color;
+    background: $navbar-color;
   }
 }
 
@@ -34,7 +34,7 @@
 
   @include desktop {
     padding-left: 0;
-    background: $secondary-color;
+    background: $navbar-color;
   }
 }
 
@@ -87,6 +87,11 @@ link:focus,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
   color: $white;
+}
+
+.navbar-dark .navbar-toggler {
+  color: $secondary-color;
+  border-color: $secondary-color;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {

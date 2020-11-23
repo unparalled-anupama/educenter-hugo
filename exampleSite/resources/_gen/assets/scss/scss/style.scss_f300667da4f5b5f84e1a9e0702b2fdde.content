@@ -205,7 +205,7 @@ a h4:hover {
 
 .section {
   padding-top: 90px;
-  padding-bottom: 90px; }
+  padding-bottom: 50px; }
   .section-sm {
     padding-top: 40px;
     padding-bottom: 40px; }
@@ -454,10 +454,10 @@ textarea.form-control {
   border-top: .5px solid lightgray; }
   @media (max-width: 991px) {
     .navigation {
-      background: #1c1c42; } }
+      background: #fff; } }
 @media (max-width: 991px) {
   .navbar-collapse {
-    background: #1c1c42; } }
+    background: #fff; } }
 
 .navbar-nav {
   padding-left: 50px;
@@ -465,7 +465,7 @@ textarea.form-control {
   @media (max-width: 991px) {
     .navbar-nav {
       padding-left: 0;
-      background: #1c1c42; } }
+      background: #fff; } }
 .nav-bg {
   background-color: #fff; }
 
@@ -502,6 +502,10 @@ link:focus,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show > .nav-link {
   color: #fff; }
+
+.navbar-dark .navbar-toggler {
+  color: #1c1c42;
+  border-color: #1c1c42; }
 
 .navbar-expand-lg .navbar-nav .nav-link {
   padding: 40px 0px; }
@@ -770,7 +774,7 @@ link:focus,
 
 .footer {
   border-color: #494a43 !important;
-  padding-top: 275px; }
+  padding-top: 250px; }
 
 /* /footer */
 .filter-controls li {
