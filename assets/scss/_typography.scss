@@ -72,3 +72,8 @@ h6, .h6{
     font-size: 14px;
   }
 }
+
+.text-capitalize {
+    text-transform: capitalize!important;
+    color: $white;
+}
