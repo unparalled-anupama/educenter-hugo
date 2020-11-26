@@ -34,3 +34,4 @@ fields:
   default: post
 pages:
 - exampleSite/content/english/blog/immunizations-and-vaccines.md
+- exampleSite/content/english/blog/what-is-immunization.md
