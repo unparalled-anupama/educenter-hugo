@@ -1,32 +1,51 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# post thumbnail
-image: "images/blog/post-2.jpg"
-# post author
-author: "Mark Dinn"
-# taxonomy
-categories: ["Mathmatics Learning"]
-tags: ["Advice", "Rules"]
-# type
-type: "post"
+title: What Is Immunization?
+date: 2020-11-26T09:27:17+00:00
+bg_image: "/images/public-fg.png"
+description: Immunity through immunization
+image: "/images/cdc-_zfrhu7jqzc-unsplash.jpg"
+author: Diwash Shrestha
+categories:
+- Genetic Engineering
+tags:
+- Science
+type: post
+
 ---
+When you get sick, your body makes antibodies to fight the disease to help you get better. These antibodies stay in your body even after the disease is gone, and protect you from getting the same illness again. This is called immunity. However, you don’t have to get sick to develop immunity. You can gain immunity against disease through immunization
 
-### The standard Lorem Ipsum passage, used since the 1500s
+#### **Immunity through immunization**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Immunization (or vaccination) protects people from disease by introducing a vaccine into the body that triggers an immune response, just as though you had been exposed to a disease naturally. The vaccine contains the same antigens or parts of antigens that cause the disease, but the antigens in vaccines are either killed or greatly weakened. Vaccines work because they trick your body into thinking it is being attacked by the actual disease.
 
+Immunity through immunization happens without the consequence of being ill and without the risk of potential life-threatening complications from the disease. Once a person is immunized, specific immune cells called memory cells prevent re-infection when they encounter that disease again in the future. However, not all vaccines provide lifelong immunity. Vaccines such as the tetanus vaccine require booster doses every ten years for adults to maintain immunity.
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+#### **Not just for children**
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+At any age, vaccination provides the longest-lasting, most effective protection against disease. Vaccine-preventable diseases can be serious, and in some cases can cause life-threatening complications that can lead to hospitalization. This is especially a concern for infants and young children, who are particularly more vulnerable. Having children vaccinated on time is important and helps ensure that they receive the protection they need as early as possible to fight off diseases before they are exposed to them.
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+Immunization is important not only in childhood, but in adulthood as well, to help promote healthy aging. This is because childhood immunization does not provide lifelong immunity against some diseases such as tetanus (lockjaw) and diphtheria. Adults require helper, or booster, shots to maintain immunity. Adult vaccinations may also be recommended to protect against disease common in adulthood such as shingles.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Adults who were not adequately immunized as children may be at risk of infection from other vaccine-preventable diseases. They can also infect others. For example, adults who become ill with measles, mumps or pertussis (whooping cough) can infect infants who may not yet be fully immunized.
+
+Since the introduction of vaccines, many serious illnesses have been brought under control.  
+Immunization can protect you from:
+
+* blood infection
+* diphtheria
+* ear infection
+* _Haemophilus influenzae_ type b
+* hepatitis A
+* hepatitis B
+* Human papillomavirus (HPV)
+* influenza
+* measles (red measles)
+* meningitis
+* mumps
+* pertussis (whooping cough)
+* pneumonia
+* polio
+* rotavirus
+* rubella (German measles)
+* tetanus (lockjaw)
+* varicella (chickenpox)
