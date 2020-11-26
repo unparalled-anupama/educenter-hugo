@@ -16,7 +16,6 @@ When you get an [immunization](https://www.webmd.com/children/healthtool-childho
 
 Then, if you're ever again exposed to the actual disease-causing organism, your immune system is prepared to fight the infection. A vaccine will usually prevent the onset of a disease or else reduce its severity.
 
-  
 Why Should Someone Get Immunized?
 
 The goal of public health is to prevent disease. It's much easier and more cost-effective to _prevent_ a disease than to treat it. That's exactly what immunizations aim to do.
